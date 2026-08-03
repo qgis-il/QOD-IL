@@ -136,7 +136,7 @@
 ## אוקטובר 2024 - לא התקיים
 
 ## ספטמבר 2024
-* שי זוסמן דיבר על פלאגינים לשיפור תהליך הבחירה והסינון ב-QGIS
+* שי זוסמן דיבר על פלאגינים לשיפור תהליך הבחירה והסינון ב-QGIS  - [קישור למצגת של שי זוסמן](https://docs.google.com/presentation/d/1Tm3Vw9UZzYKnibDZ8cS6tauoH0DB7LZCjJrmdWtbJAQ/edit?usp=sharing)
 * ארז שריג דיבר על שימוש ב-SVG ופרמטרים ב-QGIS
   
 [קישור להקלטה ב-YouTube](https://youtube.com/live/NDm0Y5IEkI0?feature=share)
